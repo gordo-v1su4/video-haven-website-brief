@@ -1,0 +1,205 @@
+{
+  "source": "behind-the-cut/web/static/media (Video Haven)",
+  "assets": [
+    {
+      "file": "/media/auditions/elias-mercer.jpg",
+      "bytes": 23662,
+      "sha256": "b3ebeb6445d28c2594dc836816a5f2d2e053a04dbc21fbfbbb42d592c28cb38b"
+    },
+    {
+      "file": "/media/auditions/elias-mercer.mp4",
+      "bytes": 18479670,
+      "sha256": "cd771030c9b88bbb2443405ec28388d8871baff0a02f237373b432971b8adf0f"
+    },
+    {
+      "file": "/media/auditions/kai-santana-02.jpg",
+      "bytes": 18386,
+      "sha256": "048c60556099b5037a2a588ad41636d7c1238c926f133a19cdef6180a7499cf2"
+    },
+    {
+      "file": "/media/auditions/kai-santana-02.mp4",
+      "bytes": 31943930,
+      "sha256": "2e5f651042a639612cd78fceaf569867e66ec7702370187f82c5ea310697fb18"
+    },
+    {
+      "file": "/media/auditions/kai-santana.jpg",
+      "bytes": 28158,
+      "sha256": "3d78f53bcbfadffb2440a0d025ef053216e2679ffdc0a3143b1e309472e4fb03"
+    },
+    {
+      "file": "/media/auditions/kai-santana.mp4",
+      "bytes": 27454139,
+      "sha256": "edad1f241b4898de55d1367fe28b61759180d99adea2fed6dc0185493845342c"
+    },
+    {
+      "file": "/media/auditions/lucian-blaise.jpg",
+      "bytes": 17275,
+      "sha256": "12f4f8fdfb5dc0c74cef885bdc237473fcbd5a7673985583a544aa54e7ba30fd"
+    },
+    {
+      "file": "/media/auditions/lucian-blaise.mp4",
+      "bytes": 22483497,
+      "sha256": "5162b245249b930a25afac1a50e6e74239198814ec35abbca2d49eab72d82b08"
+    },
+    {
+      "file": "/media/auditions/malachi-jackson.jpg",
+      "bytes": 42276,
+      "sha256": "8a6d5721bebccb86759c0fd4950b4b442b9326aecc3d5b6e0ecc857c2fbe6d84"
+    },
+    {
+      "file": "/media/auditions/malachi-jackson.mp4",
+      "bytes": 3416742,
+      "sha256": "e098f96d7f292e939bf981b436ee549821302b94eaa788e196ae41d17d8ddec4"
+    },
+    {
+      "file": "/media/auditions/malik-vale.jpg",
+      "bytes": 21442,
+      "sha256": "ce1174459f4c25744e5772d3843eac9deb40a6cd40595d19969d2523b131fa9c"
+    },
+    {
+      "file": "/media/auditions/malik-vale.mp4",
+      "bytes": 22560999,
+      "sha256": "a0f8984a476a6710b596173f0c2b24e77057f0bed086329e077490c0f1df3f5c"
+    },
+    {
+      "file": "/media/auditions/mara-voss.jpg",
+      "bytes": 19525,
+      "sha256": "92f5bbacbab41488b243a754a1d224ff3817c520b360bf027d220e0f5343a354"
+    },
+    {
+      "file": "/media/auditions/mara-voss.mp4",
+      "bytes": 17271286,
+      "sha256": "2bfe449a2d0e06bac7e1c238e4d95d03f7a89fa41c8d0f2a30d0ae28730e9729"
+    },
+    {
+      "file": "/media/auditions/rowan-mercer.jpg",
+      "bytes": 18329,
+      "sha256": "47cf4232875d46bd8656e5a97c40d8ab423e9dc24a4590e495517f7031dcff37"
+    },
+    {
+      "file": "/media/auditions/rowan-mercer.mp4",
+      "bytes": 43097541,
+      "sha256": "921218cec16d5f32c82eefdce8983eac059b79028bacd5f6b67b2e4b3cf9c954"
+    },
+    {
+      "file": "/media/first-look-15.jpg",
+      "bytes": 24304,
+      "sha256": "d6ba7fd736ffc135ff16750b34cd4f5d8ba745e37066d6ad74a49c07f64fdcfb"
+    },
+    {
+      "file": "/media/first-look-15.mp4",
+      "bytes": 5275213,
+      "sha256": "7eee42f9f801db099b12a39581caebdc2bb44a3cc30e1e88c87d0292e06f4233"
+    },
+    {
+      "file": "/media/first-look-20.jpg",
+      "bytes": 29495,
+      "sha256": "ca4be2292965b169ace1ee6fca7dd2055f23bc6a5c666d987b2cc7ff7315b228"
+    },
+    {
+      "file": "/media/first-look-20.mp4",
+      "bytes": 7626976,
+      "sha256": "6a0c2737db7314e09b522779be5a4eed581be229278c5f6038abfd358d54e288"
+    },
+    {
+      "file": "/media/first-look-30.jpg",
+      "bytes": 23439,
+      "sha256": "19e568b2dfaac068a170e6420ef77d9e27d357ff1e373f6a12a8bb384c5749c9"
+    },
+    {
+      "file": "/media/first-look-30.mp4",
+      "bytes": 11818700,
+      "sha256": "fa6ff3451ca0838b6225293ff487d47fcc498bea81ec14d1424ec138a38a4cbb"
+    },
+    {
+      "file": "/media/kai-arrival-temp.mp4",
+      "bytes": 1939978,
+      "sha256": "0cb76873749406a1f35a75ef54b9d5f06cb647a7ebe497faa84bf83ebfac3070"
+    },
+    {
+      "file": "/media/keyart/action-board.png",
+      "bytes": 6545055,
+      "sha256": "92ef3dde554bd980e7a5a8f511601da06c1b5bd0a0a2bfbdaf6b5ff085bff509"
+    },
+    {
+      "file": "/media/keyart/bloodrush-logo-final.png",
+      "bytes": 2271882,
+      "sha256": "fe8901f96b4e3ca5dedcaeb756219b053d8d0b4128273b275e9e9e7694e8475b"
+    },
+    {
+      "file": "/media/keyart/bloodrush-logo.png",
+      "bytes": 4925562,
+      "sha256": "ec78134da26c2267e4947e60a8189ac9d577590b5a1b75a0b88bc43d41a2eb45"
+    },
+    {
+      "file": "/media/keyart/freshman-hell.png",
+      "bytes": 4048369,
+      "sha256": "6a720da7c5e7042e7056d785dc7eb21e30d6988ba3608ce2c1d824027dc2c92f"
+    },
+    {
+      "file": "/media/keyart/freshman-year.png",
+      "bytes": 3934134,
+      "sha256": "3350483410bb265d69ae88d47986faed1ab18783297694968819073bc16e586e"
+    },
+    {
+      "file": "/media/keyart/mara-reference.png",
+      "bytes": 1952316,
+      "sha256": "c2065445ef46a6e1dcefe370294e4a6730def7ccc36f32061992c2cdfe215865"
+    },
+    {
+      "file": "/media/keyart/timed-board.png",
+      "bytes": 6295718,
+      "sha256": "b68859596b576b98ea9e6c6eccfc68ab9ac3d710292d4fb6d164179bfba51f10"
+    },
+    {
+      "file": "/media/keyart/video-haven-ensemble.png",
+      "bytes": 5406019,
+      "sha256": "fbc6a558663c87dbeee1ef367b41fdd6b48817aaf03a693ecf60a6ad33bb1578"
+    },
+    {
+      "file": "/media/keyart/video-haven-storyboard.png",
+      "bytes": 5897462,
+      "sha256": "7117dbd69bfd4c2c28051d3db46af6f185eb85686ba28c1d023697cb242709b6"
+    },
+    {
+      "file": "/media/rooftop-10.jpg",
+      "bytes": 21703,
+      "sha256": "ff14c439615932a2789202cf6709efb5e2055849e21214ab6e0f271ac87d04ae"
+    },
+    {
+      "file": "/media/rooftop-10.mp4",
+      "bytes": 3924411,
+      "sha256": "b401c0ee243e17917da326ca99632dc227cc1d9df5eff191e568dd35eae8beae"
+    },
+    {
+      "file": "/media/video-haven-arrival.jpg",
+      "bytes": 35855,
+      "sha256": "c1e6078d4c575b3d10dd2e467103e4ec146ea0282c7c3fada6cbaa1f77c65fc2"
+    },
+    {
+      "file": "/media/world/aisles.png",
+      "bytes": 92847,
+      "sha256": "c0402e34a1fd0704f1e6ea7ca8dcee7ab05e005fb21c0302e5836c0e622597ac"
+    },
+    {
+      "file": "/media/world/campus.png",
+      "bytes": 9875013,
+      "sha256": "32f7af997a42998beb576af3bac6904ba3a179e5d0965b7eaafb91e13c2f0475"
+    },
+    {
+      "file": "/media/world/closed-store.png",
+      "bytes": 1955546,
+      "sha256": "f8f585c9e6080ddcc3fc82af70c0a4d7808b14213a16e27b009d02f0d2b1b287"
+    },
+    {
+      "file": "/media/world/rooftop.png",
+      "bytes": 1645458,
+      "sha256": "62553e25239f21c9e2a252ef15a1d253e1fa154211879145cdcca2347281d87d"
+    },
+    {
+      "file": "/media/world/video-haven.png",
+      "bytes": 108948,
+      "sha256": "c6b35f5573d6a61545ad25e083ae454fd4e0187db4ef23fbb389bf4720b406bd"
+    }
+  ]
+}
