@@ -1,5 +1,7 @@
 # Video Haven website brief
 
+![Video Haven series collection with DVD covers](docs/images/video-haven-workspace.png)
+
 React 19, TypeScript, Vite, Tailwind, GSAP, and Three.js, managed with Bun. Vercel configuration builds the static site to dist; no deployment has been published.
 
 ```sh
