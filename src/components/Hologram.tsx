@@ -5,7 +5,9 @@ export function defaultFinish(_id: string): HoloFinish { return "sigil"; }
 
 export function Hologram({ cover }: { finish?: HoloFinish; cover?: string }) {
   const name = cover?.startsWith("/media/covers/") ? cover.split("/").pop()?.replace(".png", "") : undefined;
-  const style = name ? { maskImage: `url("/img/foil-masks/${name}.svg")`, WebkitMaskImage: `url("/img/foil-masks/${name}.svg")` } as CSSProperties : undefined;
+  const suppliedMatte = name === "arrival" || name === "closing-shift";
+  const mask = name ? `/img/foil-masks/${name}${suppliedMatte ? "-user-matte.png" : ".svg"}` : undefined;
+  const style = mask ? { maskImage: `url("${mask}")`, WebkitMaskImage: `url("${mask}")`, ...(suppliedMatte ? { maskMode: "luminance" } : {}) } as CSSProperties : undefined;
   return <>
     <div className={`holo-region${name ? " holo-region--artwork" : ""}`} style={style} aria-hidden="true">
       <div className="holo-reflection" />

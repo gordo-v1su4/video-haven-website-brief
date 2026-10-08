@@ -1,0 +1,7 @@
+.store-mark > span {
+  font-style: italic;
+}
+
+.store-mark small {
+  font-style: normal;
+}
